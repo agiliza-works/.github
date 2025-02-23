@@ -3,7 +3,7 @@
 
 Agiliza é a solução definitiva para equipes que buscam organização, colaboração e produtividade. Inspirado em ferramentas como Jira e Trello, o Agiliza oferece um ambiente intuitivo para gerenciar tarefas, acompanhar o progresso de projetos e otimizar fluxos de trabalho.
 
-🔥 Recursos Principais:  
+🔥 Recursos Principais:
 - Quadros Personalizáveis - Organize tarefas como desejar, com colunas ajustáveis e etiquetas coloridas. 
 - Gerenciamento de Tarefas - Crie, edite e atribua tarefas facilmente para sua equipe. 
 - Colaboração em Tempo Real - Comunique-se com sua equipe diretamente dentro das tarefas. 
@@ -12,7 +12,9 @@ Agiliza é a solução definitiva para equipes que buscam organização, colabor
 - Relatórios e Análises - Obtenha insights sobre a produtividade da sua equipe. 
 
 📸 Capturas de Tela:  
+
 Aqui estão algumas imagens do Agiliza em ação:  
+
 ![](https://dummyimage.com/150x150/ccc/000&text=This)
 ![](https://dummyimage.com/150x150/ccc/000&text=is)
 ![](https://dummyimage.com/150x150/ccc/000&text=Spartaaaaaa)
@@ -25,4 +27,5 @@ Aqui estão algumas imagens do Agiliza em ação:
 - Deploy: Docker
 
 📄 Licença  
+
  Este projeto está privado.
